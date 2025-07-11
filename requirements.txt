@@ -1,0 +1,7 @@
+flask
+requests
+transformers
+torch
+pyyaml
+accelerate
+python-dotenv
