@@ -1,8 +1,8 @@
 rule_weights:
-  G2: 0.5
-  G3: 2.0
-  G4: 2.0
-  G6: 1.0
-  G8: 1.0
-  G9: 0.5
-  G10: 2.0
+  G2: 0.5   # Streams
+  G3: 2.0   # Null safety
+  G4: 2.0   # Mutable fields
+  G6: 1.0   # Data structures
+  G8: 1.0   # Interface coding
+  G9: 0.5   # Interface design
+  G10: 2.0  # equals/hashCode
